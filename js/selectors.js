@@ -24,5 +24,5 @@ $(document).ready(function(){
   // HINT: look at the documentation for:
     // http://api.jquery.com/category/selectors/
     // http://api.jquery.com/addClass/
-    // http://api.jquery.com/wrap/
+    // http://api.jquery.com/wrap/comment
 });
